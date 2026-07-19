@@ -3,7 +3,7 @@ title: 关于我
 date: '2026-03-31 01:19:19'
 tags: []
 mood: ''
-cover: https://bu.dusays.com/2026/07/20/6a5d037637a39.jpg
+cover: https://bu.dusays.com/2026/07/20/6a5d0893e78cb.png
 description: ''
 ---
 
