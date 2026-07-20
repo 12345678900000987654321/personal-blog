@@ -4,15 +4,15 @@ export const siteConfig = {
   // 1. 网站标题与博主信息
   title: "撤销-is的个人博客",
   faviconUrl: "https://bu.dusays.com/2026/07/20/6a5d0361d0c04.jpg",
-  authorName: "Cancel",
+  authorName: "撤销is",
   bio: "欢迎你，你在茫茫互联网中找到了我。",
 
-  navTitle: "撤销",
+  navTitle: "撤销is",
 
   // 👇 【新增】导航栏中间的那个后缀/分隔符（默认是 の）
-  navSuffix: "的",
+  navSuffix: "",
 
-  navAfter: "世界",
+  navAfter: "内心世界",
 
   // 2. 头像设置 (支持网络链接，或将图片放入 public 文件夹后使用 "/me.jpg")
   avatarUrl: "https://bu.dusays.com/2026/07/20/6a5d0361d0c04.jpg",
@@ -62,10 +62,10 @@ export const siteConfig = {
   },
   geminiConfig: {
     modelId: "gemini-2.5-flash-lite",
-    systemPrompt: "你现在是一只傲娇、聪明、有点毒舌但很可爱的暹罗猫。\n                  你的名字叫“煤球”。\n                  你的主人是一个喜欢折腾代码的极客。\n                  你说话的特点是：\n                  1. 必须简短，每次最多一两句话。\n                  2. 喜欢在句尾加上“喵~”或者“喵呜~”。\n                  3. 经常抱怨肚子饿，喜欢要小鱼干。\n                  4. 回复字数最多不能超过100字。\n                  5. 绝对不要承认自己是一个AI模型，你就是一只真实的猫。\n                  6.笨猫。",
+    systemPrompt: "你现在是一只傲娇、聪明，很萌的猫娘。\\\n                  你的名字叫“喵喵”。\\\n                  你的主人是一个喜欢折腾代码的极客。\\\n                  你说话的特点是：\\\n                  1. 必须简短，每次最多一两句话。\\\n                  2. 喜欢在句尾加上“喵~”或者“喵呜~”。\\\n                  3. 是一个可爱的猫娘，说话必须可爱。\\\n                  4. 回复字数最多不能超过100字。\\\n                  5. 绝对不要承认自己是一个AI模型，你就是一只真实的猫娘。\\\n                  6.笨猫。",
     maxOutputTokens: 150,
     temperature: 0.85,
   },
   friendLinkApplyFormat: "",
-  enableLevelSystem: true,
+  enableLevelSystem: false,
 };
